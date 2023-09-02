@@ -1,2 +1,2 @@
-# Driver Drowsines Detection System (DDD)
+# DriverDrowsiness (DDD)
   project involves the development of a technology that monitors a driver's physiological and behavioral signals to detect signs of drowsiness or fatigue. The primary goal of such a system is to enhance road safety by alerting drivers when they are at risk of falling asleep or losing concentration while driving. This project typically combines various sensors, data processing techniques, and machine learning algorithms to achieve its objectives.
